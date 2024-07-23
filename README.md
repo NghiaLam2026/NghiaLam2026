@@ -2,8 +2,8 @@
 
 <h3> About me <h3>
 
-- 🌱 - Aspiring full-stack developer
-- 🎓 - Currently studying Computer Science at Georgia State University.
+- 🌱 &nbsp; Aspiring full-stack developer
+- 🎓 &nbsp; Currently studying Computer Science at Georgia State University.
 
 <h3> Tech Stack </h3>
 
@@ -13,4 +13,5 @@
 
 <h3> Fun Facts </h3>
 
-- 📚 &nbsp; I love learning 
+- 📚 &nbsp; I love learning new technologies and constantly improving my skills
+- 🧩 &nbsp; In my free time, I enjoy playing Soulslike game, working out, and playing instruments. ╰(*°▽°*)╯
