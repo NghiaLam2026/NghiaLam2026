@@ -5,4 +5,7 @@
 - 🌱 &nbsp; Aspiring full-stack developer
 - 🎓 &nbsp; Currently studying Computer Science at Georgia State University.
 
-  <h3> Tech Stack </h3>
+<h3> Tech Stack </h3>
+
+- 💻 &nbsp; Programming Language: Python | HTML | CSS | JavaScript | C
+- 
