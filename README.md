@@ -10,7 +10,3 @@
 - 💻 &nbsp; Programming Language: Python | HTML | CSS | JavaScript | C
 - 💾 &nbsp; Frameworks and Libraries: Express.js | Node.js | EJS
 - 🔧 &nbsp; Tools: Git, Postman
-
-<br>
-
-<h3> 🤝 Connect with me </h3>
