@@ -8,7 +8,7 @@
 <h3> Tech Stack </h3>
 
 - 💻 &nbsp; Programming Language: Python | HTML | CSS | JavaScript | C
-- 💾 &nbsp; Frameworks and Libraries: Express.js | Node.js | EJS | React | Next.js | Firebase
+- 💾 &nbsp; Frameworks and Libraries: Express.js | Node.js | React | Next.js | Firebase
 - 🔧 &nbsp; Tools: Git | Postman | OpenAI
 
 <h3> Fun Facts </h3>
