@@ -15,4 +15,4 @@
 
 - 🧩 &nbsp; In my free time, I enjoy playing Soulslike game, working out, and playing instruments.
 
-<h3> Thank you for visiting my Github page! 👋 </h3>
+<h3> Thank you for visiting my Github page! ✌ </h3>
